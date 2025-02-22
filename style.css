@@ -1,0 +1,33 @@
+.container {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	align-content: center;
+	margin: 25px;
+	gap: 25px;
+}
+
+.card {
+	display: flex;
+	justify-content: center;
+	align-content: center;
+
+}
+
+.done {
+	text-decoration: line-through;
+}
+
+/*.add-new-button {
+	display: flex;
+	justify-content: center;
+	align-content: center;
+	padding: 50px;
+}*/
+
+/*button {
+	width: 10rem;
+	height: 10rem;
+	background-color: black;
+	color: white;
+}*/
